@@ -1,1 +1,1 @@
-# jdi-light-mobile-ios-template
+Repository for jdi-light mobile template
