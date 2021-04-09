@@ -3,7 +3,7 @@ This template contains jdi-light-mobile iOS tests
 How to launch ios tests
 
 1) Stable requirements:
-Java 8, Maven 3.6.3, TestNG 6.14.3, Appium 1.18.3, Xcode (last version) <br>
+Java 8, Maven 3.6.3, TestNG 6.14.3, Appium >= 1.20.2 (prefer the latest version), Xcode (the latest version) <br>
 
 2) Install Appium & Xcode for iOS simulator
 

@@ -1,6 +1,3 @@
-12:20:57 [main] STEP  JDI - Run Calendars App Tests
-12:20:57 [main] STEP  JDI - Check that 'Continue Button' is displayed
-12:20:57 [main] ERROR JDI - !>>> WelcomePage.continueButton (xpath='//XCUIElementTypeButton[@name="Continue"]')
-12:21:29 [main] ERROR JDI - Failed actions chain: 
-12:21:29 [main] STEP  JDI - Reset the app under test
-12:21:29 [main] ERROR JDI - !>>> AppManager
+15:06:56 [main] STEP  JDI - Reset the app under test
+15:06:56 [main] ERROR JDI - !>>> AppManager
+15:07:26 [main] ERROR JDI - Failed actions chain: AppManager.resetApp()
