@@ -1,0 +1,3 @@
+16:15:06 [main] STEP  JDI - Reset the app under test
+16:15:06 [main] ERROR JDI - !>>> AppManager
+16:15:37 [main] ERROR JDI - Failed actions chain: AppManager.resetApp()
