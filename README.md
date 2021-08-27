@@ -32,7 +32,7 @@ We describe a way via Android Studio.
 1. Run Android Studio
 1. Run AVD Manager (Configure -> AVD Manager) (or via Tools -> AVD Manager for an open project)
 1. Create a virtual device with any available parameters (for example, Pixel_3a_API_30_x86)
-1. Run virtual device via button in Actions column ![Virtual device run](./docs/run_and_power_up.png "Run device")
+1. Run virtual device via button in Actions column ![Virtual device run](/docs/run_and_power_up.png "Run device")
 1. Power up your device via Power button (is highlighted on a previous screen)
 1. Open Chrome, confirm all agreements to get empty Chrome window with search field
 1. Open About Chrome  and find Chrome version (chromedriver and Chrome version should be equal, so copy it. Needed after Appium installation)<br/>
